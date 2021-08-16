@@ -1,3 +1,5 @@
+# 공부하자!
+
 import cv2, os
 import numpy as np
 
